@@ -30,6 +30,11 @@ Importing a .ply mesh sequence is easy:
 1. Navigate to the folder where your mesh sequence is stored
 1. In the File Name box, provide the first few letters of the name of one of your mesh files (prefix). Ensure that all files that you wish to import share this prefix
 1. Click Select Folder and wait while your sequence is loaded
+1. Click Object -> Set Origin -> Origin to Geometry
+1. Alt-G to ensure object is centered
+1. Scale your object to 0.2 for x,y,z so you can see it in the camera
+1. Navigate to the Output section (should look like a printer) on the lower right, make sure your output is set to FFmpeg video
+1. View -> Render Animation, then the output will be saved to the folder located in the output tab
 
 Once it’s finished loading, you’re done!
 
