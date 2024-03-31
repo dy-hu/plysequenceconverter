@@ -10,13 +10,10 @@ This .Ply Sequence converter plugin takes the .ply elements of the Stop Motion O
 > Stop Motion OBJ is able to import very complex mesh sequences that cannot fit in memory. Using [Streaming sequences](https://github.com/neverhood311/Stop-motion-OBJ/wiki#streaming), you can specify how many meshes to keep in memory at any given time and Stop Motion OBJ will automatically load and/or remove meshes so you don’t run out of memory.
 
 # Gallery
-| | | |
-|:---:|:---:|:---:|
-|[<img src="imgs/lee_perry_smith_256.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|[<img src="imgs/mike_brondbjerg_s2g_neural_256.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|[<img src="imgs/water_splash_256.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|
-|Lee Perry Smith \| [Infinite Realities](https://ir-ltd.net/) \| [AEONX](https://aeonx.com/)|Mike Brondbjerg \| [kultur.design](http://www.kultur.design/) \| [Twitter](https://twitter.com/mikebrondbjerg)|XC Engineering \| [XC Engineering](https://www.xceng.com/en/) \| [FLOW-3D](https://www.flow3d.com/)|
-||||
-|[<img src="imgs/frank_dsouza_256.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|[<img src="imgs/day_107_256.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|[<img src="imgs/day_109_256.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|
-|Franklyn D'souza \| [Twitter](https://twitter.com/franklynd/status/1231625663095934977)|Justin Jensen \| [Fourveo](https://www.researchgate.net/publication/325426062_Fourveo_Integration_of_4D_Animation_into_Conventional_3D_Animation_Workflows) \| [YouTube](https://www.youtube.com/channel/UCHnTdtUrB1L_1Xyid8tyZPg)|Justin Jensen \| [Fourveo](https://www.researchgate.net/publication/325426062_Fourveo_Integration_of_4D_Animation_into_Conventional_3D_Animation_Workflows) \| [YouTube](https://www.youtube.com/channel/UCHnTdtUrB1L_1Xyid8tyZPg)|
+| | | 
+|:---:|:---:|
+|<img src="imgs/covid.gif">|[<img src="imgs/hand.gif">](https://github.com/neverhood311/Stop-motion-OBJ/wiki#gallery)|
+|COVID-19 Protein| Hand Dataset |
 
 
 # Download & Install
